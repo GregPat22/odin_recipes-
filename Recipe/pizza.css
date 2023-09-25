@@ -12,20 +12,37 @@
 h1 {
     color: red;
     font-size: 2.5em;
-    text-decoration:overline
+    text-decoration:overline;
+    margin-left: 350px;
     
 }
 
-h3 {
+h3#ingredients {
+  
     background-color: red;
     font-size: 1.4em;
+    margin-left: 30px;
+    margin-right: 763px;
+    border: 30px;
+    padding: 12px;
+    
+}
+
+
+h3#preparation {
+
+    background-color: red;
+        font-size: 1.4em;
+        margin-left: 30px;
+        margin-right: 753px;
+        border: 30px;
+        padding: 12px;
+
 }
 
 .forThe {
     font-weight:bold;
     text-decoration:underline;
-
-
 
 }
 
