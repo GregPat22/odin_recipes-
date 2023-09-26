@@ -7,34 +7,39 @@
   
     max-width: 600px;
     height: auto;
+    margin-left: 305px
 }
+
+.description {
+    margin-left: 440px;
+}
+
 
 h1 {
     color: red;
     font-size: 2.5em;
     text-decoration:overline;
-    margin-left: 350px;
-    
+    margin-left: 500px;
 }
 
-h3#ingredients {
+h3#ingredients span  {
   
     background-color: red;
     font-size: 1.4em;
     margin-left: 30px;
-    margin-right: 763px;
+    margin-right: auto;
     border: 30px;
     padding: 12px;
     
 }
 
 
-h3#preparation {
+h3#preparation span {
 
     background-color: red;
         font-size: 1.4em;
         margin-left: 30px;
-        margin-right: 753px;
+        margin-right: auto;
         border: 30px;
         padding: 12px;
 
