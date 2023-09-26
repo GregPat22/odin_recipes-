@@ -1,13 +1,14 @@
 * {
     font-family: sans-serif;
+    
 }
 
-
+/*application of the CSS margin property thanks to display:block */
 .image {
-  
-    max-width: 600px;
-    height: auto;
-    margin-left: 305px
+    display: block;
+    margin:auto;
+    width: 60%
+
 }
 
 .description {
@@ -19,7 +20,8 @@ h1 {
     color: red;
     font-size: 2.5em;
     text-decoration:overline;
-    margin-left: 500px;
+    margin:auto;
+    text-align:center;
 }
 
 h3#ingredients span  {
